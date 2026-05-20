@@ -1,0 +1,25 @@
+Variant_ID	Gene_Position	Argon1	Argon2	Argon3	Argon4	Argon5	Argon6	Type	AA
+328189_G_C_synonymous_variant	1257	2	2	2	1	2	2	synonymous	
+328207_A_C_synonymous_variant	1239	2	1	1	1	1	1	synonymous	
+328213_A_C_synonymous_variant	1233	2	1	1	2	1	2	synonymous	
+328219_G_C_synonymous_variant	1227	2	2	1	2	2	2	synonymous	
+328258_A_G_synonymous_variant	1188	1	2	1	1	1	2	synonymous	
+328276_A_C_synonymous_variant	1170	2	2	1	2	2	2	synonymous	
+328303_A_G_synonymous_variant	1143	2	2	1	2	1	2	synonymous	
+328315_G_C_synonymous_variant	1131	2	2	2	2	2	2	synonymous	
+328327_C_G_missense_variant	1119	2	2	1	2	2	2	missense	M373I
+328336_T_G_synonymous_variant	1110	2	1	1	1	2	2	synonymous	
+328339_G_C_synonymous_variant	1107	2	1	1	2	1	2	synonymous	
+328378_G_C_synonymous_variant	1068	1	1	1	1	1	2	synonymous	
+328380_C_A_missense_variant	1066	2	1	1	1	1	2	missense	A356S
+328390_C_G_synonymous_variant	1056	2	1	1	2	1	2	synonymous	
+328393_A_G_synonymous_variant	1053	2	2	2	2	2	2	synonymous	
+328431_T_G_missense_variant	1015	2	2	2	2	1	1	missense	I339A
+328438_G_C_synonymous_variant	1008	2	2	2	2	1	2	synonymous	
+328476_C_T_missense_variant	970	1	1	1	2	1	1	missense	A324T
+328603_A_G_synonymous_variant	843	1	2	1	1	1	1	synonymous	
+329042_A_T_missense_variant	404	2	1	1	1	1	1	missense	F135Y
+329053_C_G_synonymous_variant	393	2	1	1	1	1	1	synonymous	
+329059_C_G_synonymous_variant	387	1	1	1	2	1	1	synonymous	
+329076_T_C_missense_variant	370	2	2	2	2	2	1	missense	M124V
+329101_T_G_synonymous_variant	345	2	2	2	2	1	1	synonymous	

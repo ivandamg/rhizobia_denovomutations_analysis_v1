@@ -1,0 +1,41 @@
+Variant_ID	Gene_Position	Argon1	Argon2	Argon3	Argon4	Argon5	Argon6	Type	AA
+1472665_T_C_synonymous_variant	168	2	1	1	1	1	1	synonymous	
+1472668_T_G_synonymous_variant	171	2	1	1	1	1	1	synonymous	
+1472686_T_C_synonymous_variant	189	2	1	1	1	1	1	synonymous	
+1472747_A_G_missense_variant	250	2	1	1	1	1	1	missense	I84V
+1472758_A_G_synonymous_variant	261	2	1	2	2	1	1	synonymous	
+1472833_T_C_synonymous_variant	336	2	1	1	2	1	1	synonymous	
+1473304_T_C_synonymous_variant	807	1	2	1	1	1	1	synonymous	
+1473346_G_C_synonymous_variant	849	1	2	1	1	1	1	synonymous	
+1473355_A_G_synonymous_variant	858	2	2	1	1	1	1	synonymous	
+1473361_T_C_synonymous_variant	864	2	2	1	1	1	2	synonymous	
+1473369_G_A_missense_variant	872	2	2	2	2	2	2	missense	G291D
+1473377_A_G_missense_variant	880	1	2	1	1	1	1	missense	I294V
+1473394_G_C_synonymous_variant	897	2	2	2	1	1	2	synonymous	
+1473407_T_G_missense_variant	910	2	2	2	1	1	2	missense	S304A
+1473412_G_C_synonymous_variant	915	2	2	1	1	1	2	synonymous	
+1473457_T_C_synonymous_variant	960	2	2	2	2	2	2	synonymous	
+1473460_G_C_synonymous_variant	963	2	2	2	2	2	2	synonymous	
+1473484_C_G_synonymous_variant	987	2	2	2	1	2	2	synonymous	
+1473520_T_C_synonymous_variant	1023	1	1	2	2	2	1	synonymous	
+1473553_C_G_synonymous_variant	1056	2	2	2	2	2	2	synonymous	
+1473583_A_G_synonymous_variant	1086	2	1	2	1	1	1	synonymous	
+1473631_C_G_synonymous_variant	1134	2	2	2	2	2	2	synonymous	
+1473769_T_G_synonymous_variant	1272	1	1	1	1	1	2	synonymous	
+1473787_C_G_synonymous_variant	1290	1	2	2	2	2	2	synonymous	
+1473823_C_G_missense_variant	1326	1	1	1	2	1	1	missense	I442M
+1473827_G_A_missense_variant	1330	2	2	2	2	2	2	missense	V444I
+1473859_C_G_synonymous_variant	1362	2	1	1	1	1	1	synonymous	
+1473862_T_C_synonymous_variant	1365	2	2	2	2	2	2	synonymous	
+1473871_C_G_synonymous_variant	1374	2	1	1	1	1	1	synonymous	
+1473892_C_T_synonymous_variant	1395	2	2	2	2	1	1	synonymous	
+1473907_T_G_synonymous_variant	1410	2	2	1	2	2	2	synonymous	
+1473925_C_G_synonymous_variant	1428	2	1	1	1	1	1	synonymous	
+1473937_C_G_synonymous_variant	1440	2	1	1	2	1	1	synonymous	
+1473943_A_G_synonymous_variant	1446	2	2	2	2	2	1	synonymous	
+1473964_G_C_synonymous_variant	1467	2	1	2	2	1	1	synonymous	
+1474813_G_C_synonymous_variant	2316	2	1	2	1	1	1	synonymous	
+1474834_C_G_synonymous_variant	2337	2	1	1	1	1	1	synonymous	
+1474846_C_G_synonymous_variant	2349	2	1	1	1	1	1	synonymous	
+1474847_T_C_synonymous_variant	2350	2	1	1	2	1	1	synonymous	
+1474891_T_C_synonymous_variant	2394	2	1	1	1	1	1	synonymous	

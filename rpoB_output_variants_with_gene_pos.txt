@@ -1,0 +1,22 @@
+Variant_ID	Gene_Position	Argon1	Argon2	Argon3	Argon4	Argon5	Argon6	Type	AA
+1468595_T_C_synonymous_variant	426	2	1	2	1	1	1	synonymous	
+1468616_G_C_synonymous_variant	447	2	1	2	1	2	2	synonymous	
+1468655_T_C_synonymous_variant	486	2	1	1	1	2	2	synonymous	
+1468658_C_G_synonymous_variant	489	2	1	1	1	1	1	synonymous	
+1469751_G_A_missense_variant	1582	2	2	1	1	1	1	missense	V528T or V528M
+1469752_T_C_missense_variant	1583	2	2	1	1	1	1	missense	V528A or V528M
+1469762_T_G_synonymous_variant	1593	2	2	1	1	1	1	synonymous	
+1469852_T_C_synonymous_variant	1683	2	2	2	2	1	1	synonymous	
+1469858_G_C_synonymous_variant	1689	2	2	2	2	1	1	synonymous	
+1469861_T_C_synonymous_variant	1692	2	2	2	2	1	1	synonymous	
+1469965_G_C_missense_variant	1796	2	1	1	1	1	1	missense	S599T
+1470899_T_G_synonymous_variant	2730	1	1	1	2	1	1	synonymous	
+1471424_T_C_synonymous_variant	3255	2	2	2	2	1	1	synonymous	
+1471985_T_G_synonymous_variant	3816	2	2	1	1	1	2	synonymous	
+1471997_T_C_synonymous_variant	3828	2	2	2	2	2	2	synonymous	
+1472036_T_C_synonymous_variant	3867	2	2	2	2	2	2	synonymous	
+1472066_T_G_synonymous_variant	3897	2	2	2	2	2	2	synonymous	
+1472078_T_C_synonymous_variant	3909	1	2	2	2	2	2	synonymous	
+1472081_T_C_synonymous_variant	3912	2	2	2	2	2	2	synonymous	
+1472114_C_G_synonymous_variant	3945	2	2	2	2	2	2	synonymous	
+1472159_T_C_synonymous_variant	3990	1	2	2	1	1	1	synonymous	
