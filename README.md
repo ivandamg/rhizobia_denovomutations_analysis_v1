@@ -25,30 +25,30 @@ Analysis phylogeny and individual mutations in Argan experiment
 # 5. extract nucleotide position based on gene position file cyoB_output_variants_with_gene_pos
 
  
-   ~/ZZ_Software/seqkit subseq -r 1257:1257 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1257_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1239:1239 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1239_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1233:1233 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1233_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1227:1227 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1227_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1188:1188 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1188_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1170:1170 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1170_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1143:1143 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1143_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1131:1131 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1131_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1119:1119 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1119_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1110:1110 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1110_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1107:1107 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1107_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1068:1068 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1068_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1066:1066 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1066_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1056:1056 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1056_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1053:1053 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1053_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1015:1015 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1015_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 1008:1008 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1008_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 970:970 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/970_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 843:843 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/843_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 404:404 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/404_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 393:393 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/393_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 387:387 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/387_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 370:370 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/370_CyoB_Fargozi_Argon_MSA.fa
-   ~/ZZ_Software/seqkit subseq -r 345:345 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/345_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1257:1257 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1257_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1239:1239 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1239_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1233:1233 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1233_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1227:1227 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1227_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1188:1188 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1188_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1170:1170 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1170_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1143:1143 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1143_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1131:1131 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1131_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1119:1119 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1119_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1110:1110 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1110_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1107:1107 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1107_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1068:1068 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1068_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1066:1066 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1066_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1056:1056 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1056_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1053:1053 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1053_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1015:1015 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1015_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 1008:1008 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/1008_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 970:970 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/970_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 843:843 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/843_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 404:404 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/404_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 393:393 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/393_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 387:387 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/387_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 370:370 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/370_CyoB_Fargozi_Argon_MSA.fa
+        ~/ZZ_Software/seqkit subseq -r 345:345 cyoB/finalFargozicyoBPhylo_Renamed.fasta | grep -v ">" > cyoB/345_CyoB_Fargozi_Argon_MSA.fa
 
 
 # 6. get the names of each sequnece
